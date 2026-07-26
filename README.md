@@ -33,4 +33,10 @@ Confidential data for the project was provided under strict usage agreements.
 ## Notes  
 
 - All code involving large datasets was executed on a High-Performance Computing (HPC) system due to the significant computational resources required.  
-- Variations of the models have been implemented to handle FFT-filtered data, enabling additional preprocessing workflows.  
+- Variations of the models have been implemented to handle FFT-filtered data, enabling additional preprocessing workflows.
+
+## Report
+
+The report and poster summarizing the results can be found in the files:
+- "Report/Report_P22_Group_82"
+- "Report/Poster_P22_Group_82"
