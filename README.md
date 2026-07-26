@@ -1,4 +1,4 @@
-# P22-Multiview-Segmentation  
+# DL_Multiview_Segmentation
 
 This GitHub repository contains the code for our project on multifocal deep learning models for accurate cell segmentation in traction force microscopy. Please note that the dataset has not been included in this repository due to confidentiality agreements with the data providers.  
 
